@@ -1,14 +1,14 @@
-layout_spectrum: 0.10998071916401386
-typography_spectrum: 0.9404171933420002
+layout_spectrum: 0.10866174544207752
+typography_spectrum: 0.306656779255718
 color:
-  brandStrength: 0.7024008492007852
-  lightness: 0.3969004484824836
-  saturation: 0.23465421912260354
-  rhythmicContrast: 0.8425346149597317
+  brandStrength: 0.03548708278685808
+  lightness: 0.7290014058817178
+  saturation: 0.6750715814996511
+  rhythmicContrast: 0.6060387650504708
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: Milan Art Tour Greece 2016

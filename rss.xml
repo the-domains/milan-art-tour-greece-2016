@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Milan Art Tour Greece 2016]]></title>
         <description><![CDATA[Milan Art Tour Greece 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/milan-art-tour-greece-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 05:33:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 05:34:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/milan-art-tour-greece-2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1c3e7ac-d0f6-4b90-8681-2110e61cf247.jpg">]]></description>
+            <link>https://thegrid.ai/milan-art-tour-greece-2016/55e18b65-c425-48f8-8cff-aeb42088a965/index.html</link>
+            <guid isPermaLink="false">55e18b65-c425-48f8-8cff-aeb42088a965</guid>
+            <pubDate>Tue, 26 Jul 2016 05:34:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45ed1ae8-5c1b-4706-a898-5521b7a0586a.jpg">]]></description>
-            <link>undefined8c7ea64c-9b8a-4c99-88f0-ccfc8761bcdd/index.html</link>
+            <link>https://thegrid.ai/milan-art-tour-greece-2016/8c7ea64c-9b8a-4c99-88f0-ccfc8761bcdd/index.html</link>
             <guid isPermaLink="false">8c7ea64c-9b8a-4c99-88f0-ccfc8761bcdd</guid>
             <pubDate>Tue, 26 Jul 2016 05:33:58 GMT</pubDate>
         </item>

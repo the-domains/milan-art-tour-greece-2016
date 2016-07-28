@@ -1,4 +1,3 @@
-layout_spectrum: 0.5851742955856025
 typography_spectrum: 0.647952860686928
 color:
   brandStrength: 0.03548708278685808
@@ -11,5 +10,7 @@ color:
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
+layout_spectrum: 0.5851742955856025
 name: Milan Art Tour Greece 2016
 title: Explorers Unlimited
+description: Lifetime Members

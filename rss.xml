@@ -4,7 +4,7 @@
         <description><![CDATA[Explorers Unlimited]]></description>
         <link>https://thegrid.ai/milan-art-tour-greece-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 17:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 17:08:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/milan-art-tour-greece-2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -43,6 +43,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55994fde-e362-4bf8-8374-41026c5220a3.jpg">]]></description>
+            <link>https://thegrid.ai/milan-art-tour-greece-2016/411c4641-c744-4f25-83e7-667ee978ea0c/index.html</link>
+            <guid isPermaLink="false">411c4641-c744-4f25-83e7-667ee978ea0c</guid>
+            <pubDate>Fri, 29 Jul 2016 17:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10be80f6-f904-4eb8-ae7e-329b182adc48.jpg">]]></description>
             <link>https://thegrid.ai/milan-art-tour-greece-2016/e72169b8-10b9-48ab-83fb-0a3841bd6510/index.html</link>
             <guid isPermaLink="false">e72169b8-10b9-48ab-83fb-0a3841bd6510</guid>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/milan-art-tour-greece-2016/a0e9bcd6-682e-464c-b29f-5b9f21d267aa/index.html</link>
             <guid isPermaLink="false">a0e9bcd6-682e-464c-b29f-5b9f21d267aa</guid>
             <pubDate>Fri, 29 Jul 2016 17:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/416006f4-65bb-4109-b96b-4a78d2d11ff1.jpg">]]></description>
-            <link>https://thegrid.ai/milan-art-tour-greece-2016/d49a4bf2-db11-4d0b-a694-44e6079d136a/index.html</link>
-            <guid isPermaLink="false">d49a4bf2-db11-4d0b-a694-44e6079d136a</guid>
-            <pubDate>Fri, 29 Jul 2016 17:04:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

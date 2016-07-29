@@ -4,7 +4,7 @@
         <description><![CDATA[Explorers Unlimited]]></description>
         <link>https://thegrid.ai/milan-art-tour-greece-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 17:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 17:41:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/milan-art-tour-greece-2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/milan-art-tour-greece-2016/126a1ef4-6008-46fd-b049-3c441acd37dd/index.html</link>
             <guid isPermaLink="false">126a1ef4-6008-46fd-b049-3c441acd37dd</guid>
             <pubDate>Wed, 27 Jul 2016 17:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3afc38f9-149d-41df-af36-9fe2e5285eb6.jpg">]]></description>
+            <link>https://thegrid.ai/milan-art-tour-greece-2016/e7566ee6-4ceb-4b0c-a6a2-52d51b69cfd3/index.html</link>
+            <guid isPermaLink="false">e7566ee6-4ceb-4b0c-a6a2-52d51b69cfd3</guid>
+            <pubDate>Fri, 29 Jul 2016 17:41:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/milan-art-tour-greece-2016/e936662a-b5a6-42d3-8057-011fa8ba832d/index.html</link>
             <guid isPermaLink="false">e936662a-b5a6-42d3-8057-011fa8ba832d</guid>
             <pubDate>Fri, 29 Jul 2016 17:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8cb5509-17a1-4318-bca7-ce63643be1eb.jpg">]]></description>
-            <link>https://thegrid.ai/milan-art-tour-greece-2016/1d381ed5-26b3-407a-91ab-15df6707cdbf/index.html</link>
-            <guid isPermaLink="false">1d381ed5-26b3-407a-91ab-15df6707cdbf</guid>
-            <pubDate>Fri, 29 Jul 2016 17:12:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

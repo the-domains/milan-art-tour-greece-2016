@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Explorers Unlimited]]></title>
-        <description><![CDATA[Explorers Unlimited]]></description>
+        <title><![CDATA[Artists & Travellers]]></title>
+        <description><![CDATA[Artists & Travellers]]></description>
         <link>https://thegrid.ai/milan-art-tour-greece-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 17:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 02:13:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/milan-art-tour-greece-2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/milan-art-tour-greece-2016/126a1ef4-6008-46fd-b049-3c441acd37dd/index.html</link>
             <guid isPermaLink="false">126a1ef4-6008-46fd-b049-3c441acd37dd</guid>
             <pubDate>Wed, 27 Jul 2016 17:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milan Art Tour 2016]]></title>
+            <description><![CDATA[<article><h1>Milan Art Tour 2016</h1><p>milanarttour2016</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ql46etqXEQk</link>
+            <guid isPermaLink="false">1eb52bb8-6df5-4cc2-a1a6-244e77a67dac</guid>
+            <pubDate>Tue, 30 Aug 2016 02:13:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/milan-art-tour-greece-2016/82fd907b-0510-4fca-9e96-b81559f15252/index.html</link>
             <guid isPermaLink="false">82fd907b-0510-4fca-9e96-b81559f15252</guid>
             <pubDate>Fri, 29 Jul 2016 17:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/227fed07-74b6-4eb5-9e23-84930f140eb0.jpg">]]></description>
-            <link>https://thegrid.ai/milan-art-tour-greece-2016/c2bca76b-e3c4-45b2-8014-57579f084ee4/index.html</link>
-            <guid isPermaLink="false">c2bca76b-e3c4-45b2-8014-57579f084ee4</guid>
-            <pubDate>Fri, 29 Jul 2016 17:42:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
